@@ -1,0 +1,27 @@
+.rewrite-card{
+
+    width:650px;
+
+    margin:25px auto;
+
+    padding:30px;
+
+    border-radius:18px;
+
+    background:#1E293B;
+
+}
+
+.rewrite-card h2{
+
+    color:#38BDF8;
+
+    margin-bottom:20px;
+
+}
+
+.rewrite-card p{
+
+    line-height:1.8;
+
+}

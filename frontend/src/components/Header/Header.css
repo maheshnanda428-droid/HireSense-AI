@@ -1,0 +1,27 @@
+.header{
+
+    width:100%;
+
+    text-align:center;
+
+    padding:35px 0;
+
+}
+
+.header h1{
+
+    color:#38BDF8;
+
+    font-size:50px;
+
+    margin-bottom:10px;
+
+}
+
+.header p{
+
+    color:#CBD5E1;
+
+    font-size:18px;
+
+}

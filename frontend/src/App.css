@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#0f172a;
+}
+
+.App{
+
+    text-align:center;
+
+    margin-top:150px;
+
+    color:white;
+
+}
+
+h1{
+
+    color:#38bdf8;
+
+    font-size:45px;
+
+}
+
+h2{
+
+    font-size:30px;
+
+}
+
+p{
+
+    font-size:22px;
+
+}

@@ -1,0 +1,43 @@
+.job-card{
+
+    width:650px;
+
+    margin:25px auto;
+
+    background:#1E293B;
+
+    padding:30px;
+
+    border-radius:18px;
+
+}
+
+.job-card textarea{
+
+    width:100%;
+
+    padding:15px;
+
+    margin-top:20px;
+
+    border-radius:10px;
+
+    resize:none;
+
+}
+
+.job-card button{
+
+    margin-top:20px;
+
+    padding:12px 20px;
+
+    border:none;
+
+    border-radius:8px;
+
+    background:#38BDF8;
+
+    color:white;
+
+}

@@ -1,0 +1,35 @@
+.ai-report{
+
+    width:650px;
+
+    margin:25px auto;
+
+    background:#1E293B;
+
+    padding:30px;
+
+    border-radius:18px;
+
+    box-shadow:0px 8px 20px rgba(0,0,0,.35);
+
+}
+
+.ai-report h2{
+
+    color:#38BDF8;
+
+    margin-bottom:20px;
+
+}
+
+.ai-report pre{
+
+    white-space:pre-wrap;
+
+    line-height:1.8;
+
+    color:white;
+
+    font-size:16px;
+
+}
